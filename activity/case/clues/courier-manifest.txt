@@ -7,7 +7,7 @@ Seal number:     H-0910-4
 Picked up:       10:40, records desk handoff
 Route:           records desk -> gate C -> case office
 Delivered:       11:05, gate C
-Received by:     get goodS
+Received by:     Deputy Archivist N. Perera
 Receipt state:   signed for, seal intact
 
 The manifest records who carried the sealed copy and who took it at the gate.
